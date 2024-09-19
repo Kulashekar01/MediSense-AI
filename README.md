@@ -29,8 +29,8 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medisense-ai.git
-cd medisense-ai
+git clone https://github.com/Kulashekar01/MediSense-AI.git
+cd MediSense-AI
 ```
 
 ### 2. Create and Activate Virtual Environment (Optional but recommended)
